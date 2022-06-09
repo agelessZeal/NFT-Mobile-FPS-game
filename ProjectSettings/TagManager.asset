@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WeaponManager
+  - Projectile
+  - BodyPart
+  - GameManager
+  - AI
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapons
+  - MinimapLayer
+  - PlayerBody
+  - ParkourLayer
+  - DetailedProp
+  - Mid_DetailedProp
+  - Destructible
+  - InvisibleWall
+  - PlayerMarkerDetector
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
